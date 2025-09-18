@@ -22,6 +22,3 @@ It was developed as part of an academic exercise to practice **inter-process com
   - Server reads mining difficulty from `CommonFile.conf` in the shared library directory.  
   - Logs are written into `/var/log` inside containers.  
 
----
-
-## 📂 Project Structure
